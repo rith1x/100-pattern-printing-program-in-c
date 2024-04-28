@@ -184,7 +184,7 @@ Enter the Size: 6
 ## 16. Diamond
 
 ```
-Enter the Size: 6
+Enter the half length of the width : 6
           *
         * * *
       * * * * *
@@ -196,4 +196,18 @@ Enter the Size: 6
       * * * * *
         * * *
           *
+```
+
+## 17. Sharp Diamond
+
+```
+Enter the Size: 6
+Size is incremented by 1 
+      *
+    * * *
+  * * * * *
+* * * * * * *
+  * * * * *
+    * * *
+      *
 ```
