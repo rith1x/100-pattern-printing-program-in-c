@@ -336,3 +336,74 @@ Enter the size: 6
 06 05 04 03 02 01
 ```
 
+## 28. Character Right Triangle
+
+```
+Enter the height: 5
+A
+A B
+A B C
+A B C D
+A B C D E
+```
+
+## 29. Reversed Character Right Triangle
+
+```
+Enter the height: 6
+          A
+        A B
+      A B C
+    A B C D
+  A B C D E
+A B C D E F
+```
+
+## 30. Word X Pattern
+
+```
+Length of the word: 7
+Enter the word: AWESOME
+A           A
+  W       W
+    E   E
+      S
+    O   O
+  M       M
+E           E
+```
+
+## 31. Triangle num variant 1
+
+```
+5
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+```
+
+## 32. Var 2
+
+```
+5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+```
+## 33. binary triangle
+
+```
+6
+0
+1 0
+0 1 0
+1 0 1 0
+0 1 0 1 0
+1 0 1 0 1 0
+```
+
+## 34. 
